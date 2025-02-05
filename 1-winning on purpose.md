@@ -36,7 +36,8 @@ We can't get there without growth in North Star metric, so that's what we'll mea
 
 With a North Star in mind, we can back out to the **user behavior** that feeds it.
 
-![][image1]  
+<img width="960" alt="abstract-metrics-tree" src="https://github.com/user-attachments/assets/3d8bb8c5-9398-470e-b36d-8970a7267a49" />
+
 **Events** are things that users do that we can track in code, and then measure across all usage of the product.
 
 ## Example: ride sharing
@@ -47,12 +48,13 @@ But there's still no money until `ride_requested` happens.
 
 Even that doesn't quite get us to a ride. We need a couple more: `ride_accepted`  and `ride_began`
 
-![][image2]  
+<img width="1688" alt="ride-sharing-metrics-tree" src="https://github.com/user-attachments/assets/fc799eaa-db34-4669-9833-9b971ae22640" />
+
 It's these events *together* that give us a picture of how people use the product to get a ride. While counting only `ride_began` would give us enough to measure our North Star, it would *not* be enough to learn how to influence it.
 
 ## Funnels
 
-![][image3]
+<img width="1304" alt="ride-sharing-funnel" src="https://github.com/user-attachments/assets/08800bb0-2ce6-4406-8e36-2c7e69314258" />
 
 Because events often happen in a predictable sequence, we can use that sequence to learn if users are getting stuck or bailing out.
 
