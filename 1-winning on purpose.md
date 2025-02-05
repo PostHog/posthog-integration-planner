@@ -136,23 +136,16 @@ Complex authentication flows and tracking anonymous users from both client and s
 
 PostHog enforces some rules use of the identify function to prevent users from being merged incorrectly. Learn more about [Alias](https://posthog.com/docs/product-analytics/identify#alias-assigning-multiple-distinct-ids-to-the-same-user) if you intend to provide more than one of your own IDs for a user, or you need to merge identities on the server.
 
-### Additional caveats
-
-\[To be completed as part of intro conversation\]
 
 # Next steps
 
-Once integration is complete, let's check in after check-in interval. We'll verify and debug data collection, set up your first funnel, and talk through how to build reporting that serves your whole team.
+Next, let's make a plan to measure:
 
-Then we'll make a plan to measure:
-
-- Where users are coming from  
-- How many users are getting value from your product after signup  
-- How many users stick around over time
+- [How many users are getting value from your product after signup](2-tracking%20activation.md)  
+- [How many users stick around over time](3-measuring%20retention.md)
 
 ## Further reading
 
-- \[include links of specific interest to this customer/integration\]  
 - \[link\]  
 - \[link\]
 
