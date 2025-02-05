@@ -36,7 +36,7 @@ The result is a table that shows you, for any given day, what percentage of user
 
 ## Reading a retention table
 
-![][image1]
+![retention-table](https://github.com/user-attachments/assets/f9e5612e-03da-4859-b8ba-48d947fd57ed)
 
 Each day in the reporting period of a retention table gives us a cohort of users who did our baseline event. That's why Day 0 is always 100%: it's where we start measuring.
 
