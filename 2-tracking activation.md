@@ -45,7 +45,9 @@ So let's think about activation for our product. What event or events correspond
 # Tracking activation
 
 With the product emitting events we need to measure activation, we can create a new **insight** to provide ongoing measurement and reporting.  
-![][image1]  
+
+![funnel](https://github.com/user-attachments/assets/57a51d39-4a19-44d4-9693-9c71856bb502)
+
 One good way to start is to use a **funnel**. This will show you progression from the total population of users – people who have logged in, say – toward the events that represent your activation. You'll see the percentage of dropoff for each step, and this will give you something to chip away at with your product design.
 
 Each step in a funnel can be finely constrained using filters, so you're measuring exactly the behavior that you described in the above worksheet.
