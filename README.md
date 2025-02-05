@@ -6,4 +6,4 @@ Customize the files in this repo to maintain a reference as you integrate PostHo
 2. In the forked repo, hit the **settings** tab
 3. Under **danger zone**, change the repo's visibility to **private**
 
-Then get started with the [1-winning-on-purpose.md](1-winning-on-purpose.md) file.
+Then get started with the [1-winning on purpose.md](1-winning%20on%20purpose.md) file.
