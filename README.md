@@ -1,6 +1,6 @@
 # Welcome to your PostHog integration planner
 
-Customize the files in this repo to maintain a reference as you integrate PostHog into your product and business:
+Edit this repo to create a reference as you integrate PostHog:
 
 1. [Fork this repo](https://github.com/PostHog/posthog-integration-planner/fork)
 2. In the forked repo, hit the **settings** tab
