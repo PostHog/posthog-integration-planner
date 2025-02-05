@@ -36,7 +36,7 @@ We can't get there without growth in North Star metric, so that's what we'll mea
 
 With a North Star in mind, we can back out to the **user behavior** that feeds it.
 
-<img width="960" alt="abstract-metrics-tree" src="https://github.com/user-attachments/assets/3d8bb8c5-9398-470e-b36d-8970a7267a49" />
+<img height="700" alt="abstract-metrics-tree" src="https://github.com/user-attachments/assets/3d8bb8c5-9398-470e-b36d-8970a7267a49" />
 
 **Events** are things that users do that we can track in code, and then measure across all usage of the product.
 
@@ -54,7 +54,7 @@ It's these events *together* that give us a picture of how people use the produc
 
 ## Funnels
 
-<img width="1304" alt="ride-sharing-funnel" src="https://github.com/user-attachments/assets/08800bb0-2ce6-4406-8e36-2c7e69314258" />
+<img height="500" alt="ride-sharing-funnel" src="https://github.com/user-attachments/assets/08800bb0-2ce6-4406-8e36-2c7e69314258" />
 
 Because events often happen in a predictable sequence, we can use that sequence to learn if users are getting stuck or bailing out.
 
