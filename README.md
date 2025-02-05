@@ -7,3 +7,15 @@ Edit this repo to create a reference as you integrate PostHog:
 3. Under **danger zone**, change the repo's visibility to **private**
 
 Then get started with the [1-winning on purpose.md](1-winning%20on%20purpose.md) file.
+
+# Integration progress
+
+- [ ] PostHog snippet added
+- [ ] Basic events defined
+- [ ] First events tracked in code
+- [ ] Activation defined
+- [ ] Activation funnel added to dashboard
+- [ ] Retention defined
+- [ ] Retention chart added to dashboard
+- [ ] Revenue tracking configured
+- [ ] Revenue added to dashboard
