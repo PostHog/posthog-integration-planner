@@ -26,13 +26,13 @@ See how easy it is to understand these numbers? A good North Star is measurable 
 
 If you're *super* early, you could start with a metric like signups: how many people care enough to try your product?
 
-## Company Name's North Star
+## Our North Star
 
-Right now, traction for our business looks like Traction goal
+Right now, traction for our business looks like [Traction goal]
 
 We can't get there without growth in North Star metric, so that's what we'll measure to determine success.
 
-# Defining your v0 metrics tree
+# Defining our v0 metrics tree
 
 With a North Star in mind, we can back out to the **user behavior** that feeds it.
 
@@ -64,17 +64,17 @@ If there's a sharp drop between, say, accepting a ride and starting one, that co
 
 Funnels give us the information we need to diagnose problems and measure the impact of new solutions. We'll want to make sure we capture just enough event data to measure the critical path between starting in our product and succeeding with it.
 
-## Company Name's metrics tree
+## Our metrics tree
 
 So: to define the path between a user starting in our product and then taking the actions that move our North Star up and to the right, let's list some necessary events.
 
-**Traction:** Traction goal  
-**North Star metric:** North Star metric  
+**Traction:** [Traction goal]  
+**North Star metric:** [North Star metric]  
 **3-5 events that drive this metric:**
 
-- \[Event\]  
-- \[Event\]  
-- \[Event\]
+- [Event]  
+- [Event]  
+- [Event]
 
 # Integration planning
 
@@ -91,7 +91,7 @@ Ideal event names are self-explanatory. Don't stuff data into event names – th
 ## Identifying users
 
 | `Unique ID` | `Where/when to call identify()` | `Properties to attach` |
-| :---- | :---- | :---- |
+|  |  |  |
 |  |  |  |
 
 *Unique ID: Ideally, an ID from your database that won't change, but you can use something else, like an email address, if that's not feasible*
