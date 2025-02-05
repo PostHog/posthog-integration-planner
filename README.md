@@ -2,7 +2,7 @@
 
 Customize the files in this repo to maintain a reference as you integrate PostHog into your product and business:
 
-1. [Fork this repo](/fork)
+1. [Fork this repo](https://github.com/PostHog/posthog-integration-planner/fork)
 2. In the forked repo, hit the **settings** tab
 3. Under **danger zone**, change the repo's visibility to **private**
 
