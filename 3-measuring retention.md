@@ -4,7 +4,7 @@ With integration complete and activation defined, we turn our sights toward meas
 
 This is **retention**. Much like activation, retention can vary from product to product.
 
-Once more, we need to think about retention as a p*recursor to revenue*. What kind of ongoing usage can we use to measure that people are happy with what they get from us, and will be just as happy to pay for it?
+Once more, we need to think about retention as a *precursor to revenue*. What kind of ongoing usage can we use to measure that people are happy with what they get from us, and will be just as happy to pay for it?
 
 Activation is a good sign, but if someone doesn't use our product on an ongoing basis, that could be a problem.
 
@@ -18,7 +18,7 @@ Actions that show up in our activation metric could also pull double-duty in a r
 
 It can also be important to think about retention over different periods. Once users remain sticky through the first thirty days, measuring retention over months can also be revealing.
 
-Different products will have different usage patterns \[example finance vs social vs something else\]
+Different products will have different usage patterns. A social app with only one or two visits a month might be a failure, while the same retention pattern for a finance product might be a success.
 
 # Retention setup
 
@@ -50,11 +50,11 @@ So: for the **9,547 people** who performed the baseline on **January 22**, 2.5% 
 
 With all this in mind, let's plan for retention.
 
-**Our baseline event**:
+**Our baseline event**: [baseline event]
 
-**Our retention event**:
+**Our retention event**: [retention event]
 
-**Retention timeframe**: 
+**Retention timeframe**: [retention timeframe]
 
 # Next steps
 
