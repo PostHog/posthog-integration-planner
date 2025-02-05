@@ -93,7 +93,7 @@ Ideal event names are self-explanatory. Don't stuff data into event names – th
 ## Identifying users
 
 | `Unique ID` | `Where/when to call identify()` | `Properties to attach` |
-|  |  |  |
+| :---- | :---- | :---- |
 |  |  |  |
 
 *Unique ID: Ideally, an ID from your database that won't change, but you can use something else, like an email address, if that's not feasible*
