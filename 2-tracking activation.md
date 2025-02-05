@@ -22,7 +22,7 @@ In **Uber's** case, activation was taking a first ride. Once you understand the 
 
 Some products have wide variability in how they get used, like **Pinterest**. Rather than focus on a specific behavior, they counted activation according to the number of days within a month someone used the product. Anything more than four counted as activation.
 
-Quantity is a totally reasonable factor in activation\! For **PostHog's** session replay product, we count activation as anyone who has watched at least five replays. Just looking at one or two is more like kicking the tires.
+Quantity is a totally reasonable factor in activation! For **PostHog's** session replay product, we count activation as anyone who has watched at least five replays. Just looking at one or two is more like kicking the tires.
 
 Activation looks different for every product. It can be expressed as a quantity of events, or even as a composite of multiple events.
 
@@ -32,7 +32,7 @@ So let's think about activation for our product. What event or events correspond
 
 ## For us, activation looks like...
 
-\[Describe your activation here\]
+[Document activation behavior here. If you're not yet certain, a hypothesis is fine.]
 
 ## Activation events
 
