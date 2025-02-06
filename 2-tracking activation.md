@@ -72,6 +72,6 @@ With event data ingesting reliably into PostHog, and a clear sense of your activ
 
 ## Additional reading
 
-- \[Ian's activation crash course newsletter\]  
+- [Ian's activation crash course newsletter]  
 - [Experiments](https://posthog.com/experiments): test out product variations and measure the results
 
