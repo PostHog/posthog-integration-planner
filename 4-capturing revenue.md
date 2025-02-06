@@ -38,6 +38,14 @@ You can query *anything* from your app database with [data warehouse](https://po
 
 Just don't forget to capture the actions *leading* to revenue.
 
+## Our revenue capture plan
+
+**We will report revenue via:** [data warehouse or manual events?]
+
+**Our revenue-generating events are:**
+
+- [add events here]
+
 # Revenue reporting
 
 With revenue logged this way, we can build reports to understand how much revenue is captured over time. This is a great way to understand the health of a business.
