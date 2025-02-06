@@ -2,7 +2,7 @@
 
 # Welcome to your PostHog integration planner
 
-<img height= 200 src="https://github.com/user-attachments/assets/ef7fffcb-863d-4895-9c71-a95194cf2095"/>
+<img height= 200 align=right src="https://github.com/user-attachments/assets/ef7fffcb-863d-4895-9c71-a95194cf2095"/>
 
 Edit this repo to create a reference as you integrate PostHog:
 
