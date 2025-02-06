@@ -1,3 +1,5 @@
+[WIP, currently missing read more links across all assets.]
+
 # Welcome to your PostHog integration planner
 
 <img height= 200 src="https://github.com/user-attachments/assets/ef7fffcb-863d-4895-9c71-a95194cf2095"/>
