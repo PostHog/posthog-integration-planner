@@ -12,7 +12,7 @@ Edit this repo to create a reference as you integrate PostHog:
 
 Then get started with the [1-winning on purpose.md](1-winning%20on%20purpose.md) file.
 
-## Documentation your integration
+## Documenting your integration
 
 <img alt="pencil" height=75 src="https://github.com/user-attachments/assets/d805b1c4-c11e-4e14-a29d-97f5f7493049"/>
  
