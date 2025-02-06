@@ -51,7 +51,8 @@ A **trends** insight is a great start for your revenue reporting:
 
 It will look like something like this:
 
-![][image1]
+<img width="709" alt="Screenshot 2025-02-04 at 6 13 41 PM" src="https://github.com/user-attachments/assets/2f749f1a-0893-49b1-9a8e-b268ae963559" />
+
 
 From here we can choose the timespan for the report, grouping anywhere from hourly to monthly, with comparisons to the previous period if helpful.
 
