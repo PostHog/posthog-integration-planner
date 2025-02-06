@@ -32,9 +32,15 @@ So let's think about activation for our product. What event or events correspond
 
 ## For us, activation looks like...
 
+<img alt="pencil" height=75 align=right src="https://github.com/user-attachments/assets/d805b1c4-c11e-4e14-a29d-97f5f7493049"/>
+
+
 [Document activation behavior here. If you're not yet certain, a hypothesis is fine.]
 
 ## Activation events
+
+<img alt="pencil" height=75 align=right src="https://github.com/user-attachments/assets/d805b1c4-c11e-4e14-a29d-97f5f7493049"/>
+
 
 | `Activation event` | `Quantity (optional)` | `Timeframe (optional)` | `Already tracking?` |
 | :---- | :---- | :---- | :---- |

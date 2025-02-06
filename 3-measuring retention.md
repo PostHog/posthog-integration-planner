@@ -48,6 +48,9 @@ So: for the **9,547 people** who performed the baseline on **January 22**, 2.5% 
 
 ## Retention planning
 
+<img alt="pencil" height=75 align=right src="https://github.com/user-attachments/assets/d805b1c4-c11e-4e14-a29d-97f5f7493049"/>
+
+
 With all this in mind, let's plan for retention.
 
 **Our baseline event**: [baseline event]

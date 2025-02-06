@@ -70,6 +70,8 @@ Funnels give us the information we need to diagnose problems and measure the imp
 
 So: to define the path between a user starting in our product and then taking the actions that move our North Star up and to the right, let's list some necessary events.
 
+<img alt="pencil" height=75 align=right src="https://github.com/user-attachments/assets/d805b1c4-c11e-4e14-a29d-97f5f7493049"/>
+
 **Traction:** [Traction goal]  
 **North Star metric:** [North Star metric]  
 **3-5 events that drive this metric:**
@@ -92,6 +94,9 @@ Ideal event names are self-explanatory. Don't stuff data into event names – th
 
 ## Identifying users
 
+<img alt="pencil" height=75 align=right src="https://github.com/user-attachments/assets/d805b1c4-c11e-4e14-a29d-97f5f7493049"/>
+
+
 | `Unique ID` | `Where/when to call identify()` | `Properties to attach` |
 | :---- | :---- | :---- |
 |[identifier]|  |  |
@@ -101,6 +106,9 @@ Ideal event names are self-explanatory. Don't stuff data into event names – th
 *Typically `identify()` is called in the client, but some architectures, like SSR web apps, will call it on the server*
 
 ## First round of events to capture
+
+<img alt="pencil" height=75 align=right src="https://github.com/user-attachments/assets/d805b1c4-c11e-4e14-a29d-97f5f7493049"/>
+
 
 | `Event name` | `Server or client?` | `Properties to attach` |
 | :---- | :---- | :---- |

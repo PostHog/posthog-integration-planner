@@ -40,6 +40,8 @@ Just don't forget to capture the actions *leading* to revenue.
 
 ## Our revenue capture plan
 
+<img alt="pencil" height=75 align=right src="https://github.com/user-attachments/assets/d805b1c4-c11e-4e14-a29d-97f5f7493049"/>
+
 **We will report revenue via:** [data warehouse or manual events?]
 
 **Our revenue-generating events are:**
