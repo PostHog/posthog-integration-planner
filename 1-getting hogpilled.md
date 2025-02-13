@@ -158,6 +158,5 @@ Next, let's make a plan to measure:
 
 ## Further reading
 
-- \[link\]  
-- \[link\]
+- [Finding your North Star metric and why it matters](https://posthog.com/founders/north-star-metrics)
 
