@@ -1,4 +1,4 @@
-# Winning on purpose: getting started with PostHog
+# Getting HogPilled: how to win with PostHog
 
 Most startups fail, and most startups that win do it by accident. 
 

@@ -10,7 +10,7 @@ Edit this repo to create a reference as you integrate PostHog:
 2. In the forked repo, hit the **settings** tab
 3. Under **danger zone**, change the repo's visibility to **private**
 
-Then get started with the [1-winning on purpose.md](1-winning%20on%20purpose.md) file.
+Then get started with the [1-getting hogpilled.md](1-getting%20hogpilled.md) file.
 
 ## Documenting your integration
 
