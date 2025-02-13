@@ -28,6 +28,8 @@ If you're *super* early, you could start with a metric like signups: how many pe
 
 ## Our North Star
 
+<img alt="pencil" height=75 align=right src="https://github.com/user-attachments/assets/d805b1c4-c11e-4e14-a29d-97f5f7493049"/>
+
 Right now, traction for our business looks like [Traction goal]
 
 We can't get there without growth in North Star metric, so that's what we'll measure to determine success.
