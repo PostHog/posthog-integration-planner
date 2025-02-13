@@ -30,9 +30,9 @@ If you're *super* early, you could start with a metric like signups: how many pe
 
 <img alt="pencil" height=75 align=right src="https://github.com/user-attachments/assets/d805b1c4-c11e-4e14-a29d-97f5f7493049"/>
 
-Right now, traction for our business looks like [Traction goal]
+Right now, traction for our business looks like `[Traction goal]`
 
-We can't get there without growth in [North Star metric], so that's what we'll measure to determine success.
+We can't get there without growth in `[North Star metric]`, so that's what we'll measure to determine success.
 
 # Defining our v0 metrics tree
 
@@ -74,8 +74,10 @@ So: to define the path between a user starting in our product and then taking th
 
 <img alt="pencil" height=75 align=right src="https://github.com/user-attachments/assets/d805b1c4-c11e-4e14-a29d-97f5f7493049"/>
 
-**Traction:** [Traction goal]  
-**North Star metric:** [North Star metric]  
+**Traction:** `[Traction goal]`
+
+**North Star metric:** `[North Star metric]`  
+
 **3-5 events that drive this metric:**
 
 - [Event]  
