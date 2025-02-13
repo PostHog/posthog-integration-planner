@@ -61,5 +61,9 @@ With all this in mind, let's plan for retention.
 
 # Next steps
 
+With activation and retention under control, think about tracking and reporting [revenue](4-capturing%20revenue.md).
+
 ## Further reading
 
+- [Retention rate vs churn rate: An intro to churn analysis](https://posthog.com/product-engineers/churn-rate-vs-retention-rate)
+- [The most useful customer retention metrics, ranked](https://posthog.com/product-engineers/customer-retention-metrics)
