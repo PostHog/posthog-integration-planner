@@ -32,7 +32,7 @@ If you're *super* early, you could start with a metric like signups: how many pe
 
 Right now, traction for our business looks like [Traction goal]
 
-We can't get there without growth in North Star metric, so that's what we'll measure to determine success.
+We can't get there without growth in [North Star metric], so that's what we'll measure to determine success.
 
 # Defining our v0 metrics tree
 
