@@ -72,6 +72,6 @@ With event data ingesting reliably into PostHog, and a clear sense of your activ
 
 ## Additional reading
 
-- [Ian's activation crash course newsletter]  
+- [WTF is activation and why should engineers care?](https://posthog.com/newsletter/wtf-is-activation)  
 - [Experiments](https://posthog.com/experiments): test out product variations and measure the results
 
